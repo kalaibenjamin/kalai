@@ -1,6 +1,4 @@
- no=10
- no=23
- no=5
+no=input("enter a three no")
  if (no1 >= no2) and (no1 >= no3):
    largest = no1
 elif (no2 >= no1) and (no2 >= no3):
