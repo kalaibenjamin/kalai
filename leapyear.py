@@ -1,5 +1,5 @@
-year=2016
-if(year%4==0):
+leapyear=2016
+if(leapyear%4==0):
 print("yes")
 else:
 print("no")
