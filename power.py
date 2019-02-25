@@ -1,4 +1,4 @@
-n=int(input(""))
-k=int(input(""))
-s=n**k
-print(s)
+N=int(input(" "))
+K=int(input(" "))
+S=N**K
+print(S)
